@@ -49,7 +49,7 @@ var config = {
             module: "MMM-Entur-tavle",
             position: "top_left",
             config: {
-                stopId: '58366',
+                stopId: '58283', // Hauger
                 stopType: 'StopPlace',
                 numResults: 5,
                 showName: true,
